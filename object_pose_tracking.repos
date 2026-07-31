@@ -1,0 +1,12 @@
+repositories:
+    # DLR object tracking repos
+    lib/3dobjecttracking:
+      type: git
+      url: https://github.com/wei-hsuan-cheng/3dobjecttracking.git
+      version: main
+    m3t_ros2:
+      type: git
+      url: https://github.com/wei-hsuan-cheng/m3t_ros2.git
+      version: main
+    
+    
