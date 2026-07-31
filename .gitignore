@@ -2,7 +2,8 @@
 **/__pycache__/
 **/*.py[cod]
 
-lib/*
+/lib/
+/m3t_ros2/
 
 # macOS
 .DS_Store
