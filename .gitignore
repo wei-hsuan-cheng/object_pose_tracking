@@ -1,0 +1,9 @@
+*.cpython-310.pyc
+**/__pycache__/
+**/*.py[cod]
+
+lib/*
+
+# macOS
+.DS_Store
+**/.DS_Store
