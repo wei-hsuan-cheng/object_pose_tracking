@@ -4,6 +4,7 @@
 
 /lib/
 /m3t_ros2/
+/dataset/
 
 # macOS
 .DS_Store
